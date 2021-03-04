@@ -1,2 +1,2 @@
 from math import*
-print(sgrt(225))
+print(sgrt(625))
